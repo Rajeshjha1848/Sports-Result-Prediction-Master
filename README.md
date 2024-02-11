@@ -7,4 +7,4 @@ Technologies Used:
 Python
 Pandas, NumPy
 Streamlit
-Google Colab
+Google Colab.
